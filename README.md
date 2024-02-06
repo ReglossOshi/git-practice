@@ -5,3 +5,11 @@
 4.TypeScript : https://typescript-kr.github.io/
 
 https://perfectacle.github.io/2017/08/08/js-how-to-learn/
+
+lodash
+gsap
+scrolltoplugin
+
+swiper-bundle
+
+cos22-05.jar
